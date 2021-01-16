@@ -131,3 +131,4 @@ dmypy.json
 # custom
 
 Python-Robocode/
+.idea
